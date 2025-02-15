@@ -1,0 +1,10 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Python Virtual Environment
+venv/
+
+# Other Git Ignored Files
+.DS_Store
+*.log

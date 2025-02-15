@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+motor  # For MongoDB (remove if using PostgreSQL)
+python-dotenv
+websockets
